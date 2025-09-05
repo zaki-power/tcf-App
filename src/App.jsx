@@ -1,12 +1,13 @@
-import { useState } from 'react'
-import './App.css'
 
+import Header from './component/header'
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-
+    <div className='px-10 font-inter overflow-hidden'>
+    <Header/> 
+    </div>
     </>
   )
 }

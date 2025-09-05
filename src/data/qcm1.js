@@ -543,11 +543,12 @@ const RLTcf = [
       { id: 'd', text: 'Nonobstant', isCorrect: false }
     ]
   },
-   {   
+  {   
     id: 'RLTcf1Q51',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'A1',
-    question: '',
+    text: '',
+    question: 'Que signifie ce panneau ?',
     reponses: [
       { id: 'a', text: 'On ne peut pas fumer ici.', isCorrect: true },
       { id: 'b', text: 'On ne peut pas dormir ici.', isCorrect: false },
@@ -557,9 +558,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q52',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'A1',
-    question: '',
+    text: '',
+    question: 'Que représente ce document ?',
     reponses: [
       { id: 'a', text: 'Une lettre.', isCorrect: false },
       { id: 'b', text: 'Une carte postale.', isCorrect: false },
@@ -569,9 +571,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q53',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'A1',
-    question: '',
+    text: '',
+    question: 'Quand est organisée l’activité proposée ?',
     reponses: [
       { id: 'a', text: 'Chaque jour.', isCorrect: false },
       { id: 'b', text: 'Une fois par semaine.', isCorrect: true },
@@ -581,9 +584,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q54',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'A2',
-    question: '',
+    text: '',
+    question: 'Quel est l’avantage d’avoir une carte étudiante ?',
     reponses: [
       { id: 'a', text: 'On loge dans une résidence familiale.', isCorrect: false },
       { id: 'b', text: 'On peut préparer certains examens.', isCorrect: false },
@@ -593,9 +597,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q55',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'A2',
-    question: '',
+    text: '',
+    question: 'Parmi les sports cités, lequel est le moins populaire parmi les Français ?',
     reponses: [
       { id: 'a', text: 'La marche.', isCorrect: false },
       { id: 'b', text: 'La natation.', isCorrect: false },
@@ -605,9 +610,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q56',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'A2',
-    question: '',
+    text: '',
+    question: 'Pourquoi Louise envoie un mail à Anne ?',
     reponses: [
       { id: 'a', text: 'Pour annoncer une fête.', isCorrect: false },
       { id: 'b', text: 'Pour refuser son invitation.', isCorrect: false },
@@ -617,21 +623,23 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q57',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'A2',
-    question: '',
+    text: '',
+    question: 'Ce document est :',
     reponses: [
-      { id: 'a', text: 'Une publicité.', isCorrect: false },
-      { id: 'b', text: 'Une offre d’emploi.', isCorrect: true },
-      { id: 'c', text: 'Une carte de vœux.', isCorrect: false },
-      { id: 'd', text: 'Une brochure touristique.', isCorrect: false }
+      { id: 'a', text: 'une publicité.', isCorrect: false },
+      { id: 'b', text: 'une offre d’emploi.', isCorrect: true },
+      { id: 'c', text: 'une carte de vœux.', isCorrect: false },
+      { id: 'd', text: 'une brochure touristique.', isCorrect: false }
     ]
   },
   {   
     id: 'RLTcf1Q58',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'A2',
-    question: '',
+    text: '',
+    question: 'Qu’est-ce qui est proposé comme boisson pour ce menu ?',
     reponses: [
       { id: 'a', text: 'Une salade.', isCorrect: false },
       { id: 'b', text: 'Des crêpes.', isCorrect: false },
@@ -641,33 +649,36 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q59',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B1',
-    question: '',
+    text: '',
+    question: 'La série Paris etc. :',
     reponses: [
-      { id: 'a', text: 'Parle seulement des clichés parisiens.', isCorrect: false },
-      { id: 'b', text: 'Présente Paris comme une ville créative.', isCorrect: false },
-      { id: 'c', text: 'Ressemble à une carte postale.', isCorrect: false },
-      { id: 'd', text: 'N’évite pas certains clichés parisiens.', isCorrect: true }
+      { id: 'a', text: 'parle seulement des clichés parisiens.', isCorrect: false },
+      { id: 'b', text: 'présente Paris comme une ville créative.', isCorrect: false },
+      { id: 'c', text: 'ressemble à une carte postale.', isCorrect: false },
+      { id: 'd', text: 'n’évite pas certains clichés parisiens.', isCorrect: true }
     ]
   },
   {   
     id: 'RLTcf1Q60',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B1',
-    question: '',
+    text: '',
+    question: 'Pour la majorité des Français :',
     reponses: [
-      { id: 'a', text: 'La lecture n’est pas en danger à cause d’Internet.', isCorrect: true },
-      { id: 'b', text: 'La lecture progresse grâce à Internet.', isCorrect: false },
-      { id: 'c', text: 'La position de lecture change sans cesse.', isCorrect: false },
-      { id: 'd', text: 'La lecture connaît des problèmes à cause d’Internet.', isCorrect: false }
+      { id: 'a', text: 'la lecture n’est pas en danger à cause d’Internet.', isCorrect: true },
+      { id: 'b', text: 'la lecture progresse grâce à Internet.', isCorrect: false },
+      { id: 'c', text: 'la position de lecture change sans cesse.', isCorrect: false },
+      { id: 'd', text: 'la lecture connaît des problèmes à cause d’Internet.', isCorrect: false }
     ]
   },
   {   
     id: 'RLTcf1Q61',
-    questionType: 'COMPRÉHENSION',
-    level: 'B2',
-    question: '',
+    questionType: 'COMPRÉHENSION ÉCRITE',
+    level: 'B1',
+    text: '',
+    question: 'Quel est le thème principal du livre couronné par le Prix Goncourt 2017 ?',
     reponses: [
       { id: 'a', text: 'La Grande Guerre.', isCorrect: false },
       { id: 'b', text: 'La Révolution française.', isCorrect: false },
@@ -677,21 +688,23 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q62',
-    questionType: 'COMPRÉHENSION',
-    level: 'B2',
-    question: '',
+    questionType: 'COMPRÉHENSION ÉCRITE',
+    level: 'B1',
+    text: '',
+    question: 'L’amour du français à travers le monde…',
     reponses: [
-      { id: 'a', text: 'Est plus fort que Zaz l’imaginait.', isCorrect: true },
-      { id: 'b', text: 'Est moins grand que Zaz le croyait.', isCorrect: false },
-      { id: 'c', text: 'Est conforme aux attentes de Zaz.', isCorrect: false },
-      { id: 'd', text: 'Est assez problématique pour Zaz.', isCorrect: false }
+      { id: 'a', text: 'est plus fort que Zaz l’imaginait.', isCorrect: true },
+      { id: 'b', text: 'est moins grand que Zaz le croyait.', isCorrect: false },
+      { id: 'c', text: 'est conforme aux attentes de Zaz.', isCorrect: false },
+      { id: 'd', text: 'est assez problématique pour Zaz.', isCorrect: false }
     ]
   },
   {   
     id: 'RLTcf1Q63',
-    questionType: 'COMPRÉHENSION',
-    level: 'B2',
-    question: '',
+    questionType: 'COMPRÉHENSION ÉCRITE',
+    level: 'B1',
+    text: '',
+    question: "Quel est l’objectif de cette lettre ?",
     reponses: [
       { id: 'a', text: 'Proposer une consultation juridique.', isCorrect: false },
       { id: 'b', text: 'Offrir une formation d’avocat spécialisé.', isCorrect: false },
@@ -701,9 +714,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q64',
-    questionType: 'COMPRÉHENSION',
-    level: 'B2',
-    question: '',
+    questionType: 'COMPRÉHENSION ÉCRITE',
+    level: 'B1',
+    text: '',
+    question: 'Que fait Madame Relat ?',
     reponses: [
       { id: 'a', text: 'Elle confirme un entretien.', isCorrect: false },
       { id: 'b', text: 'Elle annule un rendez-vous.', isCorrect: true },
@@ -713,9 +727,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q65',
-    questionType: 'COMPRÉHENSION',
-    level: 'B2',
-    question: '',
+    questionType: 'COMPRÉHENSION ÉCRITE',
+    level: 'B1',
+    text: '',
+    question: 'Que veut nous montrer cet article ?',
     reponses: [
       { id: 'a', text: 'Il n’est pas facile de savoir le nombre exact d’oiseaux à Paris.', isCorrect: true },
       { id: 'b', text: 'Les Parisiens ont le sentiment de voir moins d’oiseaux dans leur ville.', isCorrect: false },
@@ -724,10 +739,11 @@ const RLTcf = [
     ]
   },
   {   
-    id: 'RLTcf1Q66',
-    questionType: 'COMPRÉHENSION',
+  id: 'RLTcf1Q66',
+  questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B2',
-    question: '',
+    text: '',
+    question: 'Que nous apprend cet article sur le Beaujolais nouveau ?',
     reponses: [
       { id: 'a', text: 'Sa qualité est reconnue dans le monde entier.', isCorrect: false },
       { id: 'b', text: 'Il bénéficie d’une grande publicité médiatique.', isCorrect: true },
@@ -737,9 +753,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q67',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B2',
-    question: '',
+    text: '',
+    question: 'Pourquoi l’Université de Tours a-t-elle mis en place cette « idée novatrice » ?',
     reponses: [
       { id: 'a', text: 'Pour promouvoir des règles d’hygiène simples.', isCorrect: false },
       { id: 'b', text: 'Pour lutter contre une forme de discrimination.', isCorrect: true },
@@ -749,9 +766,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q68',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B2',
-    question: '',
+    text: '',
+    question: 'Quel présente cet article ?',
     reponses: [
       { id: 'a', text: 'Une initiative écologique surprenante.', isCorrect: false },
       { id: 'b', text: 'Une publicité pour la capitale française.', isCorrect: false },
@@ -761,9 +779,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q69',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B2',
-    question: '',
+    text: '',
+    question: 'Que pensait Marguerite Duras des adaptations de livres au cinéma ?',
     reponses: [
       { id: 'a', text: 'Elles excitent l’imagination du spectateur.', isCorrect: false },
       { id: 'b', text: 'Elles signifient la mort de la littérature.', isCorrect: false },
@@ -773,9 +792,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q70',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B2',
-    question: '',
+    text: '',
+    question: 'Que nous apprend cet article sur l’art d’autoroute ?',
     reponses: [
       { id: 'a', text: 'Il impressionne les automobilistes grâce à son gigantisme.', isCorrect: false },
       { id: 'b', text: 'Il développe des formes originales et une symbolique subtile.', isCorrect: false },
@@ -785,9 +805,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q71',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B2',
-    question: '',
+    text: '',
+    question: 'Quel est le message principal de cet article ?',
     reponses: [
       { id: 'a', text: 'Les ordinateurs maîtrisent mieux la traduction que les humains.', isCorrect: false },
       { id: 'b', text: 'Les logiciels de traduction paraissent de plus en plus complexes.', isCorrect: false },
@@ -797,9 +818,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q72',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'B2',
-    question: '',
+    text: '',
+    question: 'D’après cet article, qui sont les décroissants ?',
     reponses: [
       { id: 'a', text: 'Les adeptes d’un mode de vie écologique.', isCorrect: true },
       { id: 'b', text: 'Les fondateurs d’une nouvelle religion.', isCorrect: false },
@@ -809,9 +831,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q73',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'C1',
-    question: '',
+    text: '',
+    question: 'Que dit l’auteur de cet article concernant le football ?',
     reponses: [
       { id: 'a', text: 'Sa beauté collective a disparu au profit d’un individualisme prononcé.', isCorrect: false },
       { id: 'b', text: 'Son individualisation a connu une accélération ces dernières années.', isCorrect: true },
@@ -821,9 +844,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q74',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'C1',
-    question: '',
+    text: '',
+    question: 'Que nous apprend cet article sur le droit de pétition en France ?',
     reponses: [
       { id: 'a', text: 'Il constitue, malgré des usages souvent dérisoires, un outil démocratique précieux.', isCorrect: true },
       { id: 'b', text: 'Il remplit, grâce à une réforme récente, un rôle institutionnel prépondérant.', isCorrect: false },
@@ -833,9 +857,10 @@ const RLTcf = [
   },
   {   
     id: 'RLTcf1Q75',
-    questionType: 'COMPRÉHENSION',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'C1',
-    question: '',
+    text: '',
+    question: 'Que dénonce le personnel des lycées français de l’étranger ?',
     reponses: [
       { id: 'a', text: 'La baisse du prestige des établissements français à l’étranger.', isCorrect: false },
       { id: 'b', text: 'L’affaiblissement des critères de recrutement des professeurs.', isCorrect: false },
@@ -844,10 +869,11 @@ const RLTcf = [
     ]
   },
   {   
-    id: 'RLTcf1Q76',
-    questionType: 'COMPRÉHENSION',
+    id: 'RLTceQ76',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'C1',
-    question: '',
+    text: '',
+    question: 'Que nous apprend cet article sur l’avenir de notre planète ?',
     reponses: [
       { id: 'a', text: 'Les ressources naturelles se réduiront considérablement les prochaines années.', isCorrect: false },
       { id: 'b', text: 'La transition énergétique permettra de diminuer intelligemment nos ressources.', isCorrect: false },
@@ -856,10 +882,11 @@ const RLTcf = [
     ]
   },
   {   
-    id: 'RLTcf1Q77',
-    questionType: 'COMPRÉHENSION',
+    id: 'RLTceQ77',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'C1',
-    question: '',
+    text: '',
+    question: 'Quel est l’objectif de la campagne mise en place par la municipalité de Venise ?',
     reponses: [
       { id: 'a', text: 'Rendre la ville à ses habitants en poussant les touristes à quitter la ville.', isCorrect: false },
       { id: 'b', text: 'Inciter les visiteurs à adopter une attitude plus respectueuse de la cité.', isCorrect: true },
@@ -868,10 +895,11 @@ const RLTcf = [
     ]
   },
   {   
-    id: 'RLTcf1Q78',
-    questionType: 'COMPRÉHENSION',
+    id: 'RLTceQ78',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'C2',
-    question: '',
+    text: '',
+    question: 'Pour quelle raison le nouveau dispositif d’aide aux devoirs a-t-il été froidement accueilli ?',
     reponses: [
       { id: 'a', text: 'Les mesures annoncées risquent de creuser les inégalités.', isCorrect: false },
       { id: 'b', text: 'L’aide aux devoirs est considérée en soi comme inutile.', isCorrect: false },
@@ -880,10 +908,11 @@ const RLTcf = [
     ]
   },
   {   
-    id: 'RLTcf1Q79',
-    questionType: 'COMPRÉHENSION',
+    id: 'RLTceQ79',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'C2',
-    question: '',
+    text: '',
+    question: 'Que nous apprend cet article sur les écrivains contemporains ?',
     reponses: [
       { id: 'a', text: 'Le regard qu’ils posent sur la société s’avère précieux aujourd’hui encore.', isCorrect: true },
       { id: 'b', text: 'L’émergence des sciences sociales a complètement éclipsé leur rôle.', isCorrect: false },
@@ -892,10 +921,11 @@ const RLTcf = [
     ]
   },
   {   
-    id: 'RLTcf1Q80',
-    questionType: 'COMPRÉHENSION',
+    id: 'RLTceQ80',
+    questionType: 'COMPRÉHENSION ÉCRITE',
     level: 'C2',
-    question: '',
+    text: '',
+    question: 'Quel est le point de vue du journaliste concernant le textile ?',
     reponses: [
       { id: 'a', text: 'Sa transformation pourrait révolutionner le domaine de la mode.', isCorrect: false },
       { id: 'b', text: 'Son commerce constitue aujourd’hui une priorité politique majeure.', isCorrect: false },
@@ -903,4 +933,5 @@ const RLTcf = [
       { id: 'd', text: 'Sa production pose des problèmes éthiques insurmontables.', isCorrect: false }
     ]
   }
+
 ];
