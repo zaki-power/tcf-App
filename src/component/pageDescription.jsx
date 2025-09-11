@@ -1,4 +1,3 @@
-import React from 'react'
 import qcm from "../assets/qcm.jpg"
 import tcfE from "../assets/tcfEductation.png"
 import ArrowDownIcon from "./svg/ArrowDownIcon"
